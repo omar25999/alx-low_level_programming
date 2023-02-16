@@ -1,9 +1,7 @@
 #include <stdio.h>
-
+/* puts initilization */
 int main(void)
-
-	/* puts utilization */
 {
-	puts("\"Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return(0);
 }
