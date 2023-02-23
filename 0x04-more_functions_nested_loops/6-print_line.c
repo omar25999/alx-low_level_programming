@@ -9,11 +9,11 @@
 
 void print_line(int n)
 {
-int y;
+	int y;
 
-for (y = 0; y < n; y++)
-{
-_putchar ('-');
-}
-_putchar ('\n');
+	for (y = 0; y < n; y++)
+	{
+		_putchar ('-');
+	}
+	_putchar ('\n');
 }
